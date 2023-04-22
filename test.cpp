@@ -8,6 +8,7 @@ int main()
     {
 
         cout << "I am Abhinav\nThanks!" << endl;
+         cout << "I am Abhinav\nThanks!" << endl;
     }
 
     return 0;
